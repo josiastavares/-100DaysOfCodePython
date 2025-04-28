@@ -41,11 +41,11 @@ O progresso pode ser acompanhado no arquivo [`log.md`](log.md), com anotações,
 ---
 
 ## 🚀 Como acompanhar
-Você pode seguir meu progresso aqui no GitHub e também no Twitter com a hashtag **#100DaysOfCode**.
+Você pode seguir meu progresso aqui no GitHub e também no meu linkedin [clique aqui](https://www.linkedin.com/in/eduardodossantostavares/).
 
 ---
 
-## ✅ Comecei em: [Coloque a data aqui]
+## ✅ Comecei em: [28/04/2025]
 
 ---
 
