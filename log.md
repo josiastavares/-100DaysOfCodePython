@@ -15,7 +15,7 @@ Este é o meu diário de bordo do desafio #100DaysOfCode. Aqui registro os apren
 | Dia | Data       | O que fiz                                                 | Link / Observações                   |
 |-----|------------|-----------------------------------------------------------|--------------------------------------|
 | 1   | [28/04]    | Criei um código que imprime um "hello word" e fiz comentários no código |                                      |
-| 2   | [     ]    |                                                           |                                      |
+| 2   | [29/04]    | Criei variáveis de vários tipos e imprimi os seus valores e tipos       |                                      |
 | 3   | [     ]    |                                                           |                                      |
 | 4   | [     ]    |                                                           |                                      |
 | 5   | [     ]    |                                                           |                                      |
