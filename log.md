@@ -31,7 +31,7 @@ Este é o meu diário de bordo do desafio #100DaysOfCode. Aqui registro os apren
 | 15  | [12/05]    | Criei um programa que escreve uma lista de tarefas em um arquivo .txt, utilizando os métodos open e write. |     |
 | 16  | [13/05]    | Criei um programa que lê o arquivo .txt criado no dia 15 e imprime seu conteúdo na tela. |                       |
 | 17  | [14/05]    | Revisão: fazer um programa que simula uma lista de tarefas (CRUD básico) |                                      |
-| 18  | []    |                                                           |                                      |
+| 18  | [15/05]    | Criei uma função em um arquivo e chamei essa função em outro arquivo fazendo uma importação |              |
 | 19  | []    |                                                           |                                      |
 | 20  | []    |                                                           |                                      |
 | 21  | []    |                                                           |                                      |
