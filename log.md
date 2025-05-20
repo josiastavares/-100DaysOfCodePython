@@ -35,7 +35,7 @@ Este é o meu diário de bordo do desafio #100DaysOfCode. Aqui registro os apren
 | 19  | [16/05]    | Importei o datatime e utilizei seus métodos date.today e datetime.now para imprimir a data e hora atual |                                      |
 | 20  | [17/05]    | Criei uma lista de quadrados de números de 1 a 10 usando list comprehension |                                      |
 | 21  | [18/05]    | Criei uma calculadora simples |                                      |
-| 22  | []    |                                                           |                                      |
+| 22  | [19/05]    | Criei funções lambdas que fazem algumas contas básicas |                                      |
 | 23  | []    |                                                           |                                      |
 | 24  | []    |                                                           |                                      |
 | 25  | []    |                                                           |                                      |
