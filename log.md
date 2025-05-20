@@ -33,8 +33,8 @@ Este é o meu diário de bordo do desafio #100DaysOfCode. Aqui registro os apren
 | 17  | [14/05]    | Revisão: fazer um programa que simula uma lista de tarefas (CRUD básico) |                                      |
 | 18  | [15/05]    | Criei uma função em um arquivo e chamei essa função em outro arquivo fazendo uma importação |              |
 | 19  | [16/05]    | Importei o datatime e utilizei seus métodos date.today e datetime.now para imprimir a data e hora atual |                                      |
-| 20  | []    |                                                           |                                      |
-| 21  | []    |                                                           |                                      |
+| 20  | [17/05]    | Criei uma lista de quadrados de números de 1 a 10 usando list comprehension |                                      |
+| 21  | [18/05]    | Criei uma calculadora simples |                                      |
 | 22  | []    |                                                           |                                      |
 | 23  | []    |                                                           |                                      |
 | 24  | []    |                                                           |                                      |
