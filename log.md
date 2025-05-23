@@ -37,7 +37,7 @@ Este é o meu diário de bordo do desafio #100DaysOfCode. Aqui registro os apren
 | 21  | [18/05]    | Criei uma calculadora simples |                                      |
 | 22  | [19/05]    | Criei funções lambdas que fazem algumas contas básicas |                                      |
 | 23  | [20/05]    | Criei alguns exemplos simples de map, filter e reduce usando listas de números |                                  |
-| 24  | []    |                                                           |                                      |
+| 24  | [21/05]    | Criei uma classe Pessoa com atributos nome e idade e método falar |
 | 25  | []    |                                                           |                                      |
 | 26  | []    |                                                           |                                      |
 | 27  | []    |                                                           |                                      |
